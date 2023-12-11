@@ -11,3 +11,6 @@ Problem: [ICPC 2021 World Final](https://icpc.global/worldfinals/problems/2021-I
 ### Homework 10
 Problem: [Strongly Connected Components](http://im.ntu.edu.tw/~tsay/dokuwiki/lib/exe/fetch.php?media=courses:alg2023:hw10.pdf).
 
+#### Notes
+All other assignments are hand-written.
+
