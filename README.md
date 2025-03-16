@@ -1,4 +1,4 @@
-# Algorithms (IMㄉㄞ, 2023 Fall)
+# Algorithms (IM2009, 2023 Fall)
 
 Welcome! This repository contains my homework assignments for the **Algorithms** course at National Taiwan University (IM2009, Fall 2023). Feel free to explore and use them as reference—but remember to follow your institution’s guidelines on academic integrity.
 
